@@ -8,5 +8,5 @@ function solution(sizes) {
         if(big_num > arr[0]) arr[0] = big_num;
         if(small_num > arr[1]) arr[1] = small_num;
     }
-    return arr[0] * arr[1]
+    return arr[0] * arr[1];
 }
